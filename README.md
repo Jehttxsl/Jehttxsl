@@ -2,6 +2,7 @@
 Hello! My name is Jéssica Taís and I'm an early-career web developer.
 I am currently studying the first period of at state technical school Aderico Alves de Vasconcelos, Pernambuco - Brazil
 I am passionata about technology and am always looking to learn and improve in the area of ​​web development. 
+
 💻 Skills: 
 HTML5 
 CSS3
