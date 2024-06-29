@@ -1,21 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
 
-Hello! My name is Jéssica Taís and I'm an early-career web developer.
-I am currently studying the first period of at state technical school Aderico Alves de Vasconcelos, Pernambuco - Brazil
-I am passionata about technology and am always looking to learn and improve in the area of ​​web development. 
+<head>
+   <meta charset="UTF-8">
+   <title>Card de Usuário - @Jehttxsl</title>
+   <link rel="stylesheet" href="./style.css">
 
-💻 Skills: 
-HTML5 
-CSS3
-JavaScript 
-Basics of frameworks like React and Bootstrap 
 
-📚 Projects:
- ITNES is an initiative that aims to help both students and teachers integrate technology into the school environment in an efficient and productive way. Our goal is to create a platform that facilitates access to digital educational resources, promoting more interactive and collaborative learning. We are developing tools that range from basic technology tutorials to online class and content management systems. We believe that, by training students and teachers in the use of technology, we can significantly improve the quality of education.
- 
-🌟 Objective: 
-My goal is to grow in my web development career, learning new technologies and collaborating on innovative projects that can make a difference. 
+</head>
 
-📱 Contact:
-Instagram: @_jessii.xz
-WhatsApp: +5581989664642
-I am open to internship opportunities and collaborations on web projects. Feel free to contact me via Instagram or WhatsApp!
+<body>
+   <div class="conteudo">
+      <article class="card">
+         <section class="cabecalho"></section>
+         <section class="corpo">
+            <img src="background.png" alt="Imagem programador.cs"
+               class="img__usuario" />
+            <h2 class="nome">Dev_Jessi</h2>
+            <p class="tipo">Programadora Back-end</p>
+            <section class="redes__sociais">
+               <a href="https://www.instagram.com/_jessii.xz?igsh=ODZ1Znlsd2dyMHg2">
+                  <img src="https://img.icons8.com/3d-fluency/344/instagram-new.png" alt="Logo Instagram" />
+                  instagram.com/_jessii.xz
+               </a>
+               <a href="https://github.com/Jehttxsl">
+                  <img src="https://img.icons8.com/3d-fluency/344/github.png" alt="Logo Github" />
+                  github.com/Jehttxsl
+               </a>
+               <a href="https://wa.me/+5581989664642?text=Ol%C3%A1%2C%20tudo%20bem%3F
+" target="_blank">
+                  <img src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" alt="Logo Whats" />
+                  Whatsapp.com/Jessi
+               </a>
+            </section>
+         </section>
+      </article>
+   </div>
+</body>
+
+</html>
